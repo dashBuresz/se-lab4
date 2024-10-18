@@ -1,0 +1,4 @@
+#Create a ship with stocked torpedo stores that never fail
+GT4500,0,0,1,0
+#Testing the ALL Firing Mode with only Secondary store
+TORPEDO,ALL

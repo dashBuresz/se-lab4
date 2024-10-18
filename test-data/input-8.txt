@@ -1,0 +1,5 @@
+#Create a ship with stocked torpedo stores, one of which always fails
+GT4500,1,1,1,0
+#Testing the SINGLE Firing Mode with 2 stocked stores
+TORPEDO,SINGLE
+TORPEDO,SINGLE
